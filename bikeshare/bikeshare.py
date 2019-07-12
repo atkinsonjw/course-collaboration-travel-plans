@@ -48,6 +48,7 @@ def get_filters():
 
 def load_data(city, month, day):
     """
+    We're supposed to make this code faster not slower!
     Loads data for the specified city and filters by month and day if applicable.
 
     Args:
