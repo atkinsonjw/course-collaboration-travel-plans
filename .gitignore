@@ -3,4 +3,4 @@
 .htmlhintrc
 .stylelintrc
 .editorconfig
-.csv
+*.csv
