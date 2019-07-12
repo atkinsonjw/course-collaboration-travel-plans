@@ -8,3 +8,5 @@ Final change for class project
 Added an application to analyze bike share data.  
 The user inputs city, month (or all) and day (or all)
 for analysis.
+
+Input for bikeshare is NOT case sensitive
